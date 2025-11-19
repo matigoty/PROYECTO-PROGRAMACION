@@ -1,5 +1,6 @@
 -- Base de datos
 -- contraseña administrador: mi_contraseña_segura
+create database matias_fernandez
 
 USE matias_fernandez; 
 
@@ -98,3 +99,4 @@ INSERT INTO Unidad_habitacional (id_unidad, numPuerta, estado, usuario_id) VALUE
 (4001, 'Puerta 28', 'desocupada', NULL),
 (4002, 'Puerta 29', 'desocupada', NULL),
 (4003, 'Puerta 30', 'desocupada', NULL);
+
